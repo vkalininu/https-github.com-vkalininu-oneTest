@@ -22,7 +22,7 @@ class Program
         IEnumerable<DataRow> seq1 = dt1.AsEnumerable();
 
         int id;
-
+        Console.Write("dvkdvkdvj");
         //  Prototype 1.
         id = (from s in seq1
               where s.Field<string>("Name") == "Александр Ерохин"
