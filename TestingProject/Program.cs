@@ -20,7 +20,7 @@ class Program
 
         DataTable dt1 = GetDataTable(students);
         IEnumerable<DataRow> seq1 = dt1.AsEnumerable();
-
+        Console.Write("IDIDIGIDIVSI IVHISH");
         int id;
         Console.Write("dvkdvkdvj");
         //  Prototype 1.
